@@ -90,6 +90,3 @@ Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
 
 ### License
 GNU General Public License v3.0 - https://nvjob.github.io/gnu-license
-
-### Donate
-Help for this project - https://nvjob.github.io/donate
