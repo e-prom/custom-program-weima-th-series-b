@@ -86,7 +86,7 @@ In automatic mode, protection against stopping the press when clogging material 
 -------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+<a href="https://nvjob.github.io">#NVJOB. Независимый Разработчик Николай Веселов. Санкт-Петербург.</a>
 
 ### License
-GNU General Public License v3.0 - https://nvjob.github.io/gnu-license
+<a href="https://nvjob.github.io/gnu-license">GNU General Public License v3.0</a>
